@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ac9d2ea54d011e43b9028d8ebc39031, type: 3}
+  m_Name: GoldBrickData
+  m_EditorClassIdentifier: 
+  NumberOfInstances: 3
+  Points: 10
+  LifeIfCollected: 0
+  LifeIfFallOut: 0
+  TimeAdd: 0
+  DiamondAdd: 0
+  Special: 1
+  SpecialText: Golden Brick
+  PowerUp: 0
+  PowerUpTime: 0
+  FruitWave: 0
+  CollectAll: 0
+  PointsBoost: 0
+  ResetSpeed: 0
+  LevelChange: 0

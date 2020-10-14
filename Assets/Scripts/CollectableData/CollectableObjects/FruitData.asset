@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ac9d2ea54d011e43b9028d8ebc39031, type: 3}
+  m_Name: FruitData
+  m_EditorClassIdentifier: 
+  Model: {fileID: 656453357828686721, guid: d09de40321234cb4c86d785edb0c5d2f, type: 3}
+  NumberOfInstances: 10
+  Points: 1
+  LifeIfCollected: 0
+  LifeIfFallOut: -1
+  PowerUp: 0
+  PowerUpTime: 0
+  FruitWave: 0
+  CollectAll: 0
+  PointsBoost: 0
+  ResetSpeed: 0
+  LevelChange: 0
